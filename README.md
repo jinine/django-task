@@ -1,4 +1,4 @@
-````markdown
+
 # Django Project Setup & Commands
 
 This guide will help you set up and run your Django project in a local development environment.
@@ -103,4 +103,3 @@ deactivate
 
 ---
 
-```
